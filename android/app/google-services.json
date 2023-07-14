@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862533208319",
+    "project_id": "videochat-fb67a",
+    "storage_bucket": "videochat-fb67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862533208319:android:fe3f66c77a1826360164ca",
+        "android_client_info": {
+          "package_name": "com.example.video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862533208319-6u67ej43jfupc7fq4cpbhmfrs4d9v249.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_call",
+            "certificate_hash": "4aaea9a28f2cc7fbed488efa4c83fce53eeb975f"
+          }
+        },
+        {
+          "client_id": "862533208319-et5vifa4594ncehoah6gcqiocu7gmmif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDal2RbNSv0D3lNzMQffjU51pfVRH-ZLjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862533208319-et5vifa4594ncehoah6gcqiocu7gmmif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
